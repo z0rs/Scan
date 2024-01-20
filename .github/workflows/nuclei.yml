@@ -1,0 +1,39 @@
+name: Nuclei
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  scan-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y wget unzip
+          wget https://github.com/projectdiscovery/nuclei/releases/download/v3.1.6/nuclei_3.1.6_linux_amd64.zip
+          unzip -o nuclei_3.1.6_linux_amd64.zip && sudo mv nuclei /usr/bin/
+          sudo chmod +x /usr/bin/nuclei && sudo rm -rf nuclei_3.1.6_linux_amd64.zip
+          
+      - name: Run nuclei
+        run: |
+          curl https://gist.githubusercontent.com/z0rs/4129a5a18bd99cae2c48ae4fc4b56522/raw/8b068abb1d769d1c8a076127eeaf924fd8e08703/Domain | nuclei -silent -nc -attack-type pitchfork -severity medium, high, critical, unknown | tee Nuclei/result.txt
+          
+      - name: Set up Git user
+        run: |
+          git config --global user.email "${{ secrets.EMAIL_ADDRESS }}"
+          git config --global user.name "${{ secrets.USER_NAME }}"
+          
+      - name: Commit changes
+        run: |
+          git add Nuclei/result.txt
+          git commit -m "Result scan $(date -u)" --no-verify
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
