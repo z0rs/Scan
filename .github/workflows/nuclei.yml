@@ -20,7 +20,7 @@ jobs:
           
       - name: Run nuclei
         run: |
-          curl https://gist.githubusercontent.com/z0rs/4129a5a18bd99cae2c48ae4fc4b56522/raw/8b068abb1d769d1c8a076127eeaf924fd8e08703/Domain | nuclei -silent -nc -attack-type pitchfork -severity medium, high, critical, unknown | tee Nuclei/result.txt
+          curl -s https://gist.githubusercontent.com/z0rs/f312b8379c2bfb097a66e87d76fd3078/raw/2f46948fc0d11511cc34f79a6bb1c10af04248fa/host-domain | nuclei -silent -nc -attack-type pitchfork -severity medium, high, critical, unknown | tee Nuclei/result.txt
           
       - name: Set up Git user
         run: |
