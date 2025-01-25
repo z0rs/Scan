@@ -28,7 +28,7 @@ jobs:
       - name: Run Smuggler scan
         run: |
           cd smuggler
-          curl -s "https://gist.githubusercontent.com/z0rs/044ec5eab22f1ee26a956b9ffe61c8bd/raw/e29e6d883ae6e97be72550749752352326624e92/xvideos.com" | python3 smuggler.py > ../smuggler-results.txt
+          curl -s "https://gist.githubusercontent.com/z0rs/5e3e2a08a0a9d0fa432b028e18f5d304/raw/c4be0799eefab299dee56762e9893c46fc3e4143/detrip" | python3 smuggler.py > ../smuggler-results.txt
 
       # 5. Konfigurasi Git user untuk commit hasil scan
       - name: Set up Git user
